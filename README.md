@@ -19,7 +19,7 @@ should be fast and easy.
 
 ### Bot setup
 
-> i took the bot setup part from https://github.com/simonacca/TellTg
+> i took this bot setup part from https://github.com/simonacca/TellTg
 
 First a bot and a chat_id are needed:
 * create a bot via the [BotFather](https://telegram.me/botfather)
