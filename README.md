@@ -39,7 +39,7 @@ so you can :
   tg_token='1234:abc-zjh'
   tg_id='56729'
   ```
-
+if not arguments is provided the script will use the last entry in the history as text.
 
 
 ### Installation of the script
