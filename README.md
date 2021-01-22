@@ -1,5 +1,7 @@
 # telegram-notification.sh
 
+## this repo is more just to let you know this can be done and to show a example of code.
+
 **long running task** ? search no more, send a push notification to your phone from a simple command.<br>
 
 telegram bots are incredibly easy to set up, installing this script should take aproximately 5min, and will come handy.
